@@ -15,5 +15,7 @@ int main() {
 
     printf("Resultado: %d horas, %d minutos e %d segundos\n", horas, minutos, segundos);
 
+    system("PAUSE");
+
     return 0;
 }
